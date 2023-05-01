@@ -1,1 +1,12 @@
-@import url('colors/background.css')
+/* Background colors */
+.background-dark {
+    background-color: #121212;   
+}
+
+.background-black {
+    background-color: #000000;
+}
+
+.background-grey {
+    background-color: #808080;
+}
